@@ -7,7 +7,7 @@ import (
 
 	"github.com/goccy/go-json"
 
-	cloudflare "github.com/cloudflare/cloudflare-go"
+	cloudflare "github.com/emilpriver/cloudflare-go"
 )
 
 func ExampleAPI_CreateLogpushJob() {
